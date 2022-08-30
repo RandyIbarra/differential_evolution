@@ -1,13 +1,5 @@
 addpath(genpath(fullfile(pwd, 'functions')));
 
-
-
-% contruimos un conjunto de datos de prueba
-rng(123) % for reproducibility
-[aux_database_train, aux_database_train_noisy, aux_params_train] = build_training_set(model, figsfolder);
-
-
-
 % parametros conocidos
 dimension = 7; % 6 o 7 dependiendo numero de shells
 
