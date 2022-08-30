@@ -11,8 +11,8 @@ cross_prob = 0.5;    % cross_prob \in [0,1]
 lower_b  = [600.00, 600.00, 600.00, 600.00, 600.00, 10,  3 ];
 upper_b = [5000.0, 5000.0, 5000.0, 5000.0, 5000.0, 20, 15];
 
-% each row is a subject
-population = init(dimension, population_size, lower_b, upper_b);
+population = random_init(dimension, population_size, lower_b, upper_b);
+%population = init_protocols_5shells();
 disp(population);
 for j=1:population_size
         agent = population(j,:);
