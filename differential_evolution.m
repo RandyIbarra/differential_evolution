@@ -61,7 +61,7 @@ for generation=1:n_iterations
             end
         end
     end 
-    tac
+    toc
 end
 
 disp('function calls');
