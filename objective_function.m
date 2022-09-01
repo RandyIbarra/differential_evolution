@@ -23,6 +23,8 @@ function [metric] = objective_function(protocol)
     smalldelta = protocol(length(protocol));
     delta = tau + (smalldelta / 3.0);  
     SNR = 10000;
+    disp("SNR");
+    disp(SNR);
 
     load_acquisition_parameters(bvalues_filename, delta, smalldelta, outputfolder); 
     

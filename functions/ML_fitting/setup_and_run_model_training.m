@@ -1,15 +1,4 @@
-function [Mdl, train_perf, metric, model] = setup_and_run_model_training(
-    schemefile, 
-    SNR, 
-    output_folder, 
-    Dsoma, 
-    Din_UB, 
-    Rsoma_UB, 
-    De_UB, 
-    seed, 
-    MLmodel, 
-    protocolname, 
-    figsfolder)
+function [Mdl, train_perf, metric, model] = setup_and_run_model_training(schemefile, SNR, output_folder, Dsoma, Din_UB, Rsoma_UB, De_UB, seed, MLmodel, protocolname, figsfolder)
 
 addpath(genpath([pwd '/functions']));
 
@@ -43,13 +32,13 @@ model.Nset = 1e5;
 
 save(fullfile(output_folder, 'model.mat'), 'model'); % Save the model used
 
-database_train_noisy = readmatrix('/home/alonso/randy/differential_evolution/data/database_train_noisy.txt');
-database_train = readmatrix('/home/alonso/randy/differential_evolution/data/database_train.txt');
-params_train = readmatrix('/home/alonso/randy/differential_evolution/data/params_train.txt');
+database_train_noisy = readmatrix('/home/alonso/randy/github/differential_evolution/data/database_train_noisy.txt');
+database_train = readmatrix('/home/alonso/randy/github/differential_evolution/data/database_train.txt');
+params_train = readmatrix('/home/alonso/randy/github/differential_evolution/data/params_train.txt');
 
-aux_database_train_noisy = readmatrix('/home/alonso/randy/differential_evolution/data/aux_database_train_noisy.txt');
-aux_database_train = readmatrix('/home/alonso/randy/differential_evolution/data/aux_database_train.txt');
-aux_params_train = readmatrix('/home/alonso/randy/differential_evolution/data/aux_params_train.txt');
+aux_database_train_noisy = readmatrix('/home/alonso/randy/github/differential_evolution/data/aux_database_train_noisy.txt');
+aux_database_train = readmatrix('/home/alonso/randy/github/differential_evolution/data/aux_database_train.txt');
+aux_params_train = readmatrix('/home/alonso/randy/github/differential_evolution/data/aux_params_train.txt');
 
 
 if isempty(MLmodel), MLmodel = 'RF'; end
