@@ -70,6 +70,6 @@ save([output_folder '/database_training_set'], 'database_train_noisy', 'database
 
 tt = toc;
 
-%disp(['DONE - Training set built in ' num2str(round(tt)) ' sec.'])
+disp(['DONE - Training set built in ' num2str(round(tt)) ' sec.'])
 
 end

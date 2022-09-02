@@ -10,17 +10,20 @@ function [optimal_agent, optimal_value, function_time] = differential_evolution(
     fprintf("cross_prob: %f\n\n", cross_prob);
     
     cont = population_size + population_size*n_iterations;
-    fprintf("n function calls: %d\n", cont);
+    fprintf("number of function calls: %d\n", cont);
     
     % to minimize function calls. save score for every function call to use it later.
     values = zeros(population_size); 
     
     % to save best solution
-    optimal_agent = population(:,1); % random agent
-    fprintf("\nFirst function time call ...\n");
-    tic
+    optimal_agent = population(1,:); % random agent
+    
+    starttime = tic;
     optimal_value = f(optimal_agent); % upper_bound
-    toc
+    endtime = toc(starttime);
+
+    fprintf("Function call time %f sec.\n", round(endtime));
+
     fprintf("\nFirst function value: %f \n\n", optimal_value);
     
     
@@ -34,6 +37,8 @@ function [optimal_agent, optimal_value, function_time] = differential_evolution(
         value = f(agent);
         endtime = toc(starttime);
 
+        fprintf("Function call time %f sec.\n", round(endtime));
+
         values(j) = value;
         
         function_time = function_time + endtime;
@@ -41,9 +46,11 @@ function [optimal_agent, optimal_value, function_time] = differential_evolution(
         if value < optimal_value
             optimal_value = value;
             optimal_agent = agent;
-            fprintf("\nnew optimal value: %f \n\n", optimal_value);
+            fprintf("\n \n new optimal value: %f \n \n \n", optimal_value);
         end
     end
+
+    fprintf('\nAverage function call time in first population %f sec.\n', round(function_time / population_size));
 
     rng('default');
     for generation=1:n_iterations
@@ -82,7 +89,7 @@ function [optimal_agent, optimal_value, function_time] = differential_evolution(
                 if(new_value < optimal_value)
                     optimal_agent = agent;
                     optimal_value = new_value;
-                    fprintf("\nnew optimal value: %f \n\n", optimal_value);
+                    fprintf("\n \n new optimal value: %f \n \n \n", optimal_value);
                 end
             end
         end 
@@ -93,13 +100,12 @@ function [optimal_agent, optimal_value, function_time] = differential_evolution(
     end
 
     function_time = function_time / cont;
-    disp('\nfunction calls time average');
-    disp(function_time);
+    fprintf('\n function calls time average: %d \n', function_time);
 
-    disp('best solution');
-    disp(optimal_value);
+    fprintf('\n optimal value: %f \n', optimal_value);
+    fprintf('\n optiml agent\n');
     disp(optimal_agent);
 
-    disp('population');
+    fprintf('population\n');
     disp(population);
 end

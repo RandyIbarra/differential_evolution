@@ -1,0 +1,347 @@
+protocols
+
+n iterations: 1
+diff_weight: 1.500000
+cross_prob: 0.500000
+
+number of function calls: 8
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 10_20_30_40_50_20tau_15smalldelta_20snr 
+
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 8).
+DONE - Training set built in 60 sec.
+DONE - Training set built in 10 sec.
+Function call time 888.000000 sec.
+
+First function value: 0.793909 
+
+   1.0e+03 *
+
+    1.0000    2.0000    3.0000    4.0000    5.0000    0.0177    0.0130
+
+
+
+ protocolname : 10_20_30_40_50_17tau_13smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+Function call time 826.000000 sec.
+
+ 
+ new optimal value: 0.791336 
+ 
+ 
+  Columns 1 through 6
+
+        1000        1750        2500        3250        4000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 10_17_25_32_40_20tau_15smalldelta_20snr 
+
+DONE - Training set built in 10 sec.
+DONE - Training set built in 9 sec.
+Operation terminated by user during
+distcomp.remoteparfor/getCompleteIntervals (line 353)
+
+
+In parallel_function>distributed_execution (line 745)
+        [tags, out] = P.getCompleteIntervals(chunkSize);
+
+In parallel_function (line 577)
+    R = distributed_execution(...
+
+In train_RF_matlab (line 17)
+parfor i=1:size(params_train,2)
+
+In setup_and_run_model_training (line 47)
+    Mdl = train_RF_matlab(database_train_noisy, params_train, n_trees);
+
+In f_protocol_snr_20 (line 37)
+    [Mdl, train_perf, metric] = setup_and_run_model_training(schemefile,
+    SNR, outputfolder, Dsoma, Din_UB, Rsoma_UB, De_UB, seed_rng,
+    protocolname, figsfolder);
+
+In differential_evolution (line 37)
+        value = f(agent);
+
+In test_protocol_snr_20 (line 20)
+[optimal_agent, optimal_value, f_time] = differential_evolution(population,
+@f_protocol_snr_20, n_iterations, diff_weight, cross_prob);
+ 
+>> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+protocols
+
+n iterations: 1
+diff_weight: 1.500000
+cross_prob: 0.500000
+
+number of function calls: 8
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 10_20_30_40_50_20tau_15smalldelta_1000snr 
+
+Warning: Directory already exists. 
+> In f_protocol (line 22)
+  In differential_evolution (line 22)
+  In test_protocol (line 20) 
+Warning: Directory already exists. 
+> In f_protocol (line 23)
+  In differential_evolution (line 22)
+  In test_protocol (line 20) 
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 8).
+DONE - Training set built in 61 sec.
+DONE - Training set built in 10 sec.
+1 --- 0.000001 
+2 --- 0.000002 
+3 --- 0.000002 
+4 --- 0.000001 
+5 --- 0.000001 
+metric --- 0.000001 
+Function call time 915.000000 sec.
+
+First function value: 0.448281 
+
+   1.0e+03 *
+
+    1.0000    2.0000    3.0000    4.0000    5.0000    0.0177    0.0130
+
+
+
+ protocolname : 10_20_30_40_50_17tau_13smalldelta_1000snr 
+
+Warning: Directory already exists. 
+> In f_protocol (line 22)
+  In differential_evolution (line 37)
+  In test_protocol (line 20) 
+Warning: Directory already exists. 
+> In f_protocol (line 23)
+  In differential_evolution (line 37)
+  In test_protocol (line 20) 
+DONE - Training set built in 10 sec.
+DONE - Training set built in 10 sec.
+1 --- 0.000001 
+2 --- 0.000002 
+3 --- 0.000002 
+4 --- 0.000001 
+5 --- 0.000001 
+metric --- 0.000001 
+Function call time 851.000000 sec.
+  Columns 1 through 6
+
+        1000        1750        2500        3250        4000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 10_17_25_32_40_20tau_15smalldelta_1000snr 
+
+Warning: Directory already exists. 
+> In f_protocol (line 22)
+  In differential_evolution (line 37)
+  In test_protocol (line 20) 
+Warning: Directory already exists. 
+> In f_protocol (line 23)
+  In differential_evolution (line 37)
+  In test_protocol (line 20) 
+DONE - Training set built in 10 sec.
+DONE - Training set built in 9 sec.
+1 --- 0.000001 
+2 --- 0.000002 
+3 --- 0.000002 
+4 --- 0.000001 
+5 --- 0.000001 
+metric --- 0.000001 
+Function call time 836.000000 sec.
+   1.0e+03 *
+
+    1.0000    1.7500    2.5000    3.2500    4.0000    0.0177    0.0130
+
+
+
+ protocolname : 10_17_25_32_40_17tau_13smalldelta_1000snr 
+
+Warning: Directory already exists. 
+> In f_protocol (line 22)
+  In differential_evolution (line 37)
+  In test_protocol (line 20) 
+Warning: Directory already exists. 
+> In f_protocol (line 23)
+  In differential_evolution (line 37)
+  In test_protocol (line 20) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+1 --- 0.000001 
+2 --- 0.000002 
+3 --- 0.000002 
+4 --- 0.000001 
+5 --- 0.000001 
+metric --- 0.000001 
+Function call time 850.000000 sec.
+
+Average function call time in first population 634.000000 sec.
+  Columns 1 through 6
+
+        1000        1375        2125        3000        5000          20
+
+  Column 7
+
+          16
+
+
+
+ protocolname : 10_13_21_30_50_20tau_16smalldelta_1000snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+1 --- 0.000001 
+2 --- 0.000002 
+3 --- 0.000002 
+4 --- 0.000001 
+5 --- 0.000001 
+metric --- 0.000001 
+   1.0e+03 *
+
+    1.0000    1.7500    3.0000    3.2500    5.0000    0.0235    0.0130
+
+
+
+ protocolname : 10_17_30_32_50_23tau_13smalldelta_1000snr 
+
+DONE - Training set built in 10 sec.
+DONE - Training set built in 10 sec.
+1 --- 0.000001 
+2 --- 0.000002 
+3 --- 0.000002 
+4 --- 0.000001 
+5 --- 0.000001 
+metric --- 0.000001 
+
+ 
+ new optimal value: 0.442486 
+ 
+ 
+   1.0e+03 *
+
+    1.0000    2.1250    2.5000    4.0000    4.3750    0.0148    0.0150
+
+
+
+ protocolname : 10_21_25_40_43_14tau_15smalldelta_1000snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+1 --- 0.000001 
+2 --- 0.000002 
+3 --- 0.000002 
+4 --- 0.000001 
+5 --- 0.000001 
+metric --- 0.000001 
+   1.0e+03 *
+
+    1.0000    2.1250    2.5000    4.0000    4.3750    0.0148    0.0130
+
+
+
+ protocolname : 10_21_25_40_43_14tau_13smalldelta_1000snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 7 sec.
+1 --- 0.000001 
+2 --- 0.000002 
+3 --- 0.000002 
+4 --- 0.000001 
+5 --- 0.000002 
+metric --- 0.000001 
+time in generation (1): 3369.534927
+
+ function calls time average: 7.383591e+02 
+
+ optimal value: 0.442486 
+
+ optiml agent
+   1.0e+03 *
+
+    1.0000    2.0000    3.0000    4.0000    5.0000    0.0177    0.0130
+
+population
+   1.0e+03 *
+
+    1.0000    2.0000    3.0000    4.0000    5.0000    0.0200    0.0150
+    1.0000    1.7500    3.0000    3.2500    5.0000    0.0235    0.0130
+    1.0000    1.7500    2.5000    3.2500    4.0000    0.0200    0.0150
+    1.0000    1.7500    2.5000    3.2500    4.0000    0.0177    0.0130
+
+>> 

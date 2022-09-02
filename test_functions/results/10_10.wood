@@ -1,0 +1,95 @@
+dimension = 4;
+
+n_iterations = 10;    % n_iterations
+population_size = 10; % population_size >= 4
+diff_weight = 1.5;   % diff_weight \in [0, 2]
+cross_prob = 0.5;    % cross_prob \in [0,1]
+
+% f_wood
+lower_b = [-3.0, -3.0, -3.0, -3.0];
+upper_b = [ 3.0,  3.0,  3.0,  3.0];
+
+>> differential_evolution_test
+    1.8883   -2.0543    0.9344    1.2363
+    2.4348    2.8236   -2.7857   -2.8090
+   -2.2381    2.7430    2.0948   -1.3385
+    2.4803   -0.0877    2.6040   -2.7230
+    0.7942    1.8017    1.0724   -2.4172
+   -2.4148   -2.1487    1.5464    1.9407
+   -1.3290   -0.4694    1.4588    1.1690
+    0.2813    2.4944   -0.6466   -1.0974
+    2.7450    1.7532    0.9329    2.7013
+    2.7893    2.7570   -1.9729   -2.7933
+
+new solution
+   3.2518e+03
+
+    1.8883   -2.0543    0.9344    1.2363
+
+new solution
+   1.3527e+03
+
+    0.7942    1.8017    1.0724   -2.4172
+
+new solution
+  605.4418
+
+   -1.3290   -0.4694    1.4588    1.1690
+
+GENERATION (1)
+new solution
+   6.4483e+03
+
+   -2.4148   -2.1487    1.5464    1.9407
+
+END (1)
+time: 0.001515
+GENERATION (2)
+new solution
+  798.2350
+
+    0.2813    2.4944   -0.6466   -1.0974
+
+END (2)
+time: 0.002370
+GENERATION (3)
+new solution
+  605.4418
+
+   -1.3290   -0.4694    1.4588    1.1690
+
+END (3)
+time: 0.001071
+GENERATION (4)
+END (4)
+time: 0.000585
+GENERATION (5)
+END (5)
+time: 0.000567
+GENERATION (6)
+END (6)
+time: 0.000584
+GENERATION (7)
+END (7)
+time: 0.000591
+GENERATION (8)
+END (8)
+time: 0.000481
+GENERATION (9)
+END (9)
+time: 0.000331
+GENERATION (10)
+END (10)
+time: 0.000479
+function calls
+   110
+
+function calls time average
+   6.3364e-06
+
+best solution
+  605.4418
+
+   -1.3290   -0.4694    1.4588    1.1690
+
+>> 
