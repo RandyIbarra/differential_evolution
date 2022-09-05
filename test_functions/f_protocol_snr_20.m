@@ -13,7 +13,7 @@ function [metric] = f_protocol_snr_20(protocol)
 
     disp(protocol);
 
-    protocolname = [int2str(floor(protocol(1) / 100.0)) '_' int2str(floor(protocol(2) / 100.0)) '_' int2str(floor(protocol(3) / 100.0)) '_' int2str(floor(protocol(4) / 100.0)) '_' int2str(floor(protocol(5) / 100.0)) '_' int2str(floor(protocol(6))) 'tau_' int2str(floor(protocol(7))) 'smalldelta_' int2str(SNR) 'snr' ];
+    protocolname = [int2str(floor(protocol(1))) '_' int2str(floor(protocol(2))) '_' int2str(floor(protocol(3))) '_' int2str(floor(protocol(4))) '_' int2str(floor(protocol(5))) '_' int2str(floor(protocol(6))) 'tau_' int2str(floor(protocol(7))) 'smalldelta_' int2str(SNR) 'snr' ];
     fprintf('\n\n protocolname : %s \n\n', protocolname);
     schemefile = fullfile(pwd, ['protocols/' protocolname '/Acq_Params/diravg.scheme']);
     bvalues_filename = fullfile(pwd, ['protocols/' protocolname '/protocol.bval']);
@@ -34,6 +34,6 @@ function [metric] = f_protocol_snr_20(protocol)
 
     load_acquisition_parameters(bvalues_filename, delta, smalldelta, outputfolder); 
     
-    [Mdl, train_perf, metric] = setup_and_run_model_training(schemefile, SNR, outputfolder, Dsoma, Din_UB, Rsoma_UB, De_UB, seed_rng, protocolname, figsfolder);
+    [Mdl, metric] = setup_and_run_model_training(schemefile, SNR, outputfolder, Dsoma, Din_UB, Rsoma_UB, De_UB, seed_rng, protocolname, figsfolder);
 end
 

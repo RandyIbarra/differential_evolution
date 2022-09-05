@@ -5,8 +5,8 @@ addpath(genpath(fullfile(pwd, 'functions')));
 % parametros conocidos
 dimension = 7; % 6 o 7 dependiendo numero de shells
 
-n_iterations = 1;       % n_iterations
-population_size = 4; % population_size >= 4
+n_iterations = 10;       % n_iterations
+population_size = 20; % population_size >= 4
 diff_weight = 1.5;     % diff_weight \in [0, 2]
 cross_prob = 0.5;    % cross_prob \in [0,1]
 
