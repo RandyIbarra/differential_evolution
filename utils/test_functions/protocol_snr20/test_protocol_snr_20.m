@@ -14,6 +14,6 @@ upper_b = [5000.0, 5000.0, 5000.0, 5000.0, 5000.0, 20, 15];
 
 population = init_protocols_5shells();
 
-function_name = 'protocol';
+function_name = 'protocol_snr20';
 
 [optimal_agent, optimal_value, f_time] = differential_evolution(population, @f_protocol_snr_20, n_iterations, diff_weight, cross_prob, lower_b, upper_b, function_name);
