@@ -11,9 +11,10 @@ cross_prob = 0.5;    % cross_prob \in [0,1]
 
 %% TESTING FUNCTIONS
 
+function_name = 'rosenbrock';
 % get boundaries of function to test
 [lower_b, upper_b] = boundaries_rosenbrock(dimension);
 % initial population: each "entry vector" came from a Unif[lower_b, upper_b]
 population = init_random(dimension, population_size, lower_b, upper_b);
 % search solution
-[optimal_agent, optimal_value, f_time] = differential_evolution(population, @f_rosenbrock, n_iterations, diff_weight, cross_prob, lower_b, upper_b);
+[optimal_agent, optimal_value, f_time] = differential_evolution(population, @f_rosenbrock, n_iterations, diff_weight, cross_prob, lower_b, upper_b, function_name);
