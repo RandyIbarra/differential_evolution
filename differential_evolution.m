@@ -62,7 +62,7 @@ function [optimal_agent, optimal_value, function_time] = differential_evolution(
             agent = population(j,:);
             
             % select three subjects
-            [agent_a,agent_b,agent_c] = get_target_vectors(population);
+            [agent_a,agent_b,agent_c] = get_target_vectors(population, j);
             aux_agent = agent_a + diff_weight * (agent_b - agent_c);
             
             R = randi(dimension);
