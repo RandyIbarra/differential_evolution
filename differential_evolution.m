@@ -1,4 +1,4 @@
-function [optimal_agent, optimal_value, function_time] = differential_evolution(population, f, n_iterations, diff_weight, cross_prob)
+function [optimal_agent, optimal_value, function_time] = differential_evolution(population, f, n_iterations, diff_weight, cross_prob, lower_b, upper_b)
     % get problem dimension
     dimension = size(population, 2);
 
@@ -65,14 +65,22 @@ function [optimal_agent, optimal_value, function_time] = differential_evolution(
             [agent_a,agent_b,agent_c] = get_target_vectors(population, j);
             aux_agent = agent_a + diff_weight * (agent_b - agent_c);
             
+            % ensure that at least one entry is always changed
             R = randi(dimension);
             
-            % build new agent
+            % build new agent from current agent
             new_agent = agent;
             for i=1:dimension
-                if( rand() < cross_prob || i==R )    
-                    new_agent(:, i) = aux_agent(:, i);
+                if (i == R) || (rand() < cross_prob)    
+                    aux_value = aux_agent(:, i);
+                    % if aux_value is not in the domain, then generate a random number in (lower_b, upper_b)
+                    if (aux_value < lower_b(i)) || (upper_b(i) < aux_value)
+                        new_agent(:, i) = get_uniform(lower_b(i), upper_b(i));
+                    else
+                        new_agent(:, i) = aux_value;
+                    end   
                 end
+                % else new_agent(:, i) = agent(i)
             end
             
             value = values(j);
