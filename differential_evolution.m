@@ -28,7 +28,7 @@ function [optimal_agent, optimal_value, function_time] = differential_evolution(
     
     
     % measure function call time
-    function_time = 0.0;
+    function_time = endtime;
 
     for j=2:population_size
         agent = population(j,:);
