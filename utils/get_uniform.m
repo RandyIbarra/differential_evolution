@@ -7,8 +7,5 @@ function random_number = get_uniform(lower_b, upper_b)
         lower_b = lower_b';
         upper_b = upper_b';
     end
-    disp(rand(length(upper_b), 1));
-    disp(size(rand(length(upper_b), 1)));
-    disp(size(upper_b));
     random_number = lower_b+(upper_b - lower_b).*rand(length(upper_b), 1);
 end
