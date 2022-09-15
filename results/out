@@ -1,0 +1,1841 @@
+>> study_function
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 16) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 16) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+agent
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+central value : 	 0.562106 ... 
+  Columns 1 through 6
+
+         500        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 500_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1500        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1500_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        1500        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_1500_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2500        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2500_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     1     2
+
+    0.5607    0.5603
+
+================
+    0.5667    0.5529
+
+end ...
+  Columns 1 through 6
+
+         500        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 500_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1500        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1500_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        2500        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_2500_4000_5000_20tau_15smalldelta_20snr 
+
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3500        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3500_4000_5000_20tau_15smalldelta_20snr 
+
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     1     3
+
+    0.5644    0.5625
+
+================
+    0.5695    0.5590
+
+end ...
+  Columns 1 through 6
+
+         500        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 500_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1500        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1500_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        3500        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_3500_5000_20tau_15smalldelta_20snr 
+
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4500        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4500_5000_20tau_15smalldelta_20snr 
+
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     1     4
+
+    0.5536    0.5595
+
+================
+    0.5575    0.5609
+
+end ...
+  Columns 1 through 6
+
+         500        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 500_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1500        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1500_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        4500          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_4500_20tau_15smalldelta_20snr 
+
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5500          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5500_20tau_15smalldelta_20snr 
+
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     1     5
+
+    0.5601    0.5579
+
+================
+    0.5600    0.5549
+
+end ...
+  Columns 1 through 6
+
+         500        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 500_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1500        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1500_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          15
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_15tau_15smalldelta_20snr 
+
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          25
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_25tau_15smalldelta_20snr 
+
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     1     6
+
+    0.5642    0.5594
+
+================
+    0.5468    0.5736
+
+end ...
+  Columns 1 through 6
+
+         500        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 500_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1500        2000        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1500_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          12
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_12smalldelta_20snr 
+
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          18
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_18smalldelta_20snr 
+
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     1     7
+
+    0.5544    0.5561
+
+================
+    0.5562    0.5623
+
+end ...
+  Columns 1 through 6
+
+        1000        1500        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_1500_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2500        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2500_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        2500        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_2500_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3500        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3500_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     2     3
+
+    0.5659    0.5590
+
+================
+    0.5677    0.5562
+
+end ...
+  Columns 1 through 6
+
+        1000        1500        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_1500_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2500        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2500_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        3500        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_3500_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4500        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4500_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     2     4
+
+    0.5573    0.5540
+
+================
+    0.5573    0.5617
+
+end ...
+  Columns 1 through 6
+
+        1000        1500        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_1500_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2500        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2500_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        4500          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_4500_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5500          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5500_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     2     5
+
+    0.5558    0.5547
+
+================
+    0.5651    0.5613
+
+end ...
+  Columns 1 through 6
+
+        1000        1500        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_1500_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2500        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2500_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          15
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_15tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          25
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_25tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     2     6
+
+    0.5613    0.5622
+
+================
+    0.5660    0.5718
+
+end ...
+  Columns 1 through 6
+
+        1000        1500        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_1500_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2500        3000        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2500_3000_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          12
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_12smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          18
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_18smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     2     7
+
+    0.5571    0.5576
+
+================
+    0.5629    0.5651
+
+end ...
+  Columns 1 through 6
+
+        1000        2000        2500        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_2500_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3500        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3500_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        3500        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_3500_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4500        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4500_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     3     4
+
+    0.5589    0.5588
+
+================
+    0.5572    0.5569
+
+end ...
+  Columns 1 through 6
+
+        1000        2000        2500        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_2500_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3500        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3500_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        4500          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_4500_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5500          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5500_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     3     5
+
+    0.5688    0.5678
+
+================
+    0.5481    0.5512
+
+end ...
+  Columns 1 through 6
+
+        1000        2000        2500        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_2500_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3500        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3500_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          15
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_15tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          25
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_25tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     3     6
+
+    0.5610    0.5687
+
+================
+    0.5556    0.5658
+
+end ...
+  Columns 1 through 6
+
+        1000        2000        2500        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_2500_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3500        4000        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3500_4000_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          12
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_12smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          18
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_18smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     3     7
+
+    0.5609    0.5645
+
+================
+    0.5564    0.5674
+
+end ...
+  Columns 1 through 6
+
+        1000        2000        3000        3500        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_3500_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4500        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4500_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        4500          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_4500_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5500          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5500_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     4     5
+
+    0.5562    0.5491
+
+================
+    0.5634    0.5526
+
+end ...
+  Columns 1 through 6
+
+        1000        2000        3000        3500        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_3500_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4500        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4500_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          15
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_15tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          25
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_25tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     4     6
+
+    0.5655    0.5616
+
+================
+    0.5588    0.5613
+
+end ...
+  Columns 1 through 6
+
+        1000        2000        3000        3500        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_3500_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4500        5000          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4500_5000_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          12
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_12smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          18
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_18smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     4     7
+
+    0.5560    0.5665
+
+================
+    0.5541    0.5690
+
+end ...
+  Columns 1 through 6
+
+        1000        2000        3000        4000        4500          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_4500_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5500          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5500_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          15
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_15tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          25
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_25tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     5     6
+
+    0.5564    0.5573
+
+================
+    0.5549    0.5703
+
+end ...
+  Columns 1 through 6
+
+        1000        2000        3000        4000        4500          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_4500_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5500          20
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5500_20tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          12
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_12smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          18
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_18smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     5     7
+
+    0.5645    0.5532
+
+================
+    0.5613    0.5645
+
+end ...
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          15
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_15tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          25
+
+  Column 7
+
+          15
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_25tau_15smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 31) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 31) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          12
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_12smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+  Columns 1 through 6
+
+        1000        2000        3000        4000        5000          20
+
+  Column 7
+
+          18
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_18smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In study_function (line 40) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In study_function (line 40) 
+DONE - Training set built in 0 sec.
+DONE - Training set built in 0 sec.
+results ...
+     6     7
+
+    0.5535    0.5658
+
+================
+    0.5575    0.5565
+
+end ...
+>> 

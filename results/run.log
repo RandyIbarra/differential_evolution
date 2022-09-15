@@ -1,0 +1,49 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+                  R2019a (9.6.0.1072779) 64-bit (glnxa64)
+                               March 8, 2019
+
+[Warning: Unrecognized command line option: maxNumCompThreads.] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+	Classroom License -- for classroom instructional use only.
+
+>> >> >> >> 
+
+ protocolname : optimal_protocol 
+
+[Warning: Directory already exists.] 
+[> In f_protocol_snr_20 (line 22)] 
+[Warning: Directory already exists.] 
+[> In f_protocol_snr_20 (line 23)] 
+Starting parallel pool (parpool) usFunction call time 	 398.000000 sec.
+Function value 	 0.423611 
+
+
+
+ protocolname : optimal_protocol 
+
+[Warning: Directory already exists.] 
+[> In f_protoFunction call time 	 403.000000 sec.
+Function value 	 0.423611 
+
+
+
+ protocolname : optimal_protocol 
+
+[Warning: Directory already exists.] 
+[> In f_protocol_snr_20 (line 2Function call time 	 341.000000 sec.
+Function value 	 0.423596 
+
+>> Average function call time 	 369.500000 sec.
+>> Variance function value (same point) 	 0Function call time 	 334.000000 sec.
+Function value 	 0.423596 
+
+>> Average function call time 	 368.500000 sec.
+>> Variance function value (same point) 	 0.000000 
+>> Std function value (same point) 	 0.000011 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 

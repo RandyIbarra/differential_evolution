@@ -1,0 +1,1012 @@
+protocol_snr20
+protocol_snr20
+protocol_snr20
+
+n iterations: 10
+diff_weight: 0.900000
+cross_prob: 0.500000
+
+number of function calls: 110
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_15smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+Function call time 336.000000 sec.
+
+First function value: 0.450692 
+
+
+
+ protocolname : 1000_2000_3000_4000_5000_17tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+Function call time 332.000000 sec.
+
+ 
+ new optimal value: 0.449855 
+ 
+ 
+
+
+ protocolname : 1000_1750_2500_3250_4000_20tau_15smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+Function call time 338.000000 sec.
+
+
+ protocolname : 1000_1750_2500_3250_4000_17tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+Function call time 335.000000 sec.
+
+
+ protocolname : 1000_2000_3000_4000_5000_20tau_9smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+Function call time 334.000000 sec.
+
+
+ protocolname : 1000_2000_3000_4000_5000_17tau_9smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+Function call time 332.000000 sec.
+
+
+ protocolname : 1000_1750_2500_3250_4000_20tau_3smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+Function call time 335.000000 sec.
+
+
+ protocolname : 1000_1750_2500_3250_4000_17tau_3smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+Function call time 341.000000 sec.
+
+
+ protocolname : 700_1000_1500_2000_2500_20tau_15smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+Function call time 350.000000 sec.
+
+
+ protocolname : 700_1100_1400_2100_2600_20tau_3smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+Function call time 345.000000 sec.
+
+Average function call time in first population 338.000000 sec.
+
+
+ protocolname : 1000_1000_2500_3000_4000_20tau_15smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1775_2550_4000_4100_17tau_12smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1750_2500_3250_4000_20tau_3smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1975_2950_3250_4900_17tau_8smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 700_1000_1500_2500_4000_20tau_15smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 970_1775_2300_3950_4000_17tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1910_3090_3250_4910_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 730_1190_1560_2840_3250_17tau_13smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1750_2000_2500_4000_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_2100_2200_3400_3614_15tau_3smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+time in generation (1): 3366.299374
+
+
+ protocolname : 1000_1797_2595_4000_4190_20tau_14smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1977_2955_4000_4910_17tau_8smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1910_3090_3250_4910_20tau_13smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 730_1271_1479_2921_3250_17tau_9smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1243_2398_3614_3877_4000_18tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 757_1696_2554_2570_4000_17tau_3smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1595_2190_3250_3614_18tau_11smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2180_3250_3360_3753_17tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1910_2000_3090_4910_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2056_2100_2869_4981_15tau_7smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+time in generation (2): 3345.244757
+
+
+ protocolname : 1000_1941_3126_3614_4000_18tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1977_2955_4000_4910_17tau_8smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1910_3090_3250_4910_20tau_13smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_2261_3250_3279_3834_17tau_9smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1667_2847_3614_4000_18tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_2299_3112_3940_4000_17tau_7smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1868_3198_3250_4936_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_2050_2882_3250_4982_17tau_6smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1910_2000_3090_4910_20tau_13smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_2056_2100_2869_4981_15tau_7smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+time in generation (3): 3348.368523
+
+
+ protocolname : 1000_1941_3126_3614_4000_18tau_13smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1977_2955_4000_4910_17tau_8smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1868_3198_3250_4936_20tau_13smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2168_2703_3250_3614_15tau_8smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1746_3375_4000_4867_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+ 
+ new optimal value: 0.447913 
+ 
+ 
+
+
+ protocolname : 1000_2182_2681_3614_4000_13tau_9smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1868_3198_3250_4936_20tau_13smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_2050_2882_3250_4982_17tau_6smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1868_2000_3198_4936_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2093_2100_2770_4957_15tau_7smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+time in generation (4): 3365.449227
+
+
+ protocolname : 1000_1650_3599_4000_4900_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2205_2617_3614_4000_15tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1640_3250_3536_4817_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2168_2703_3250_3614_15tau_8smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1704_3484_4000_4893_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+ 
+ new optimal value: 0.447684 
+ 
+ 
+
+
+ protocolname : 1000_2219_2583_3614_4000_13tau_9smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1831_3250_3296_4959_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2050_2882_3250_4982_17tau_6smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1640_2000_3536_4817_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_2100_2298_2467_3614_15tau_7smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+time in generation (5): 3360.429384
+
+
+ protocolname : 1000_1403_4000_4011_4819_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2243_2519_3614_4000_15tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1603_3250_3634_4840_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2168_2703_3250_3614_15tau_8smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1476_3821_4000_4775_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+ 
+ new optimal value: 0.445878 
+ 
+ 
+
+
+ protocolname : 1000_2280_2425_3614_4000_13tau_9smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1625_3250_3600_4852_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_2050_2882_3250_4982_17tau_6smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1603_2000_3634_4840_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2100_2332_2378_3614_15tau_7smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+time in generation (6): 3347.868330
+
+
+ protocolname : 1000_1141_4000_4437_4721_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_2215_2448_3614_4000_15tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1154_3250_4340_4650_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+ 
+ new optimal value: 0.444882 
+ 
+ 
+
+
+ protocolname : 1000_2341_2387_3250_3614_15tau_8smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1221_4000_4281_4723_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+ 
+ new optimal value: 0.442751 
+ 
+ 
+
+
+ protocolname : 1000_2191_2458_3614_4000_13tau_9smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1592_3250_3688_4873_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2050_2882_3250_4982_17tau_6smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1154_2000_4340_4650_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1743_2100_2735_3614_15tau_7smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+time in generation (7): 3347.041751
+
+
+ protocolname : 1000_2345_3000_4000_5000_18tau_11smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1801_2678_3614_4000_15tau_13smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 891_1000_3250_4624_4842_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+ 
+ new optimal value: 0.441691 
+ 
+ 
+
+
+ protocolname : 1000_2262_2417_3250_3614_15tau_8smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 742_1000_2000_2970_4723_18tau_11smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1556_2861_3614_4000_13tau_9smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1189_3250_4324_4702_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_2050_2882_3250_4982_17tau_6smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 891_1000_2000_4624_4842_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1292_2100_2972_3614_15tau_7smalldelta_20snr 
+
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+time in generation (8): 3361.958490
+
+
+ protocolname : 1000_2345_3000_4000_5000_18tau_11smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1801_2678_3614_4000_15tau_13smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_2345_3250_4624_4842_18tau_11smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1690_2780_3250_3614_15tau_8smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2000_2345_4281_4723_18tau_11smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1104_3099_3614_4000_13tau_9smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 951_1000_3250_4679_4775_20tau_13smalldelta_20snr 
+
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2050_2882_3250_4982_17tau_6smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 891_1000_2000_4624_4842_20tau_13smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1292_2100_2972_3614_15tau_7smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+time in generation (9): 3354.510625
+
+
+ protocolname : 1000_2345_3000_4000_5000_18tau_11smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1801_2678_3614_4000_15tau_13smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2345_3250_4624_4842_18tau_11smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1690_2780_3250_3614_15tau_8smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2000_2345_4281_4723_18tau_11smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 1000_1104_3099_3614_4000_13tau_9smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 9 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 951_1000_3250_4679_4775_20tau_13smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_2050_2882_3250_4982_17tau_6smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 9 sec.
+
+
+ protocolname : 891_1000_2000_4624_4842_20tau_13smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+
+
+ protocolname : 1000_1292_2100_2972_3614_15tau_7smalldelta_20snr 
+
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 22)
+  In differential_evolution (line 107)
+  In test (line 19) 
+Warning: Directory already exists. 
+> In f_protocol_snr_20 (line 23)
+  In differential_evolution (line 107)
+  In test (line 19) 
+DONE - Training set built in 8 sec.
+DONE - Training set built in 8 sec.
+time in generation (10): 3355.782403
+
+ function calls time average: 3.050710e+01 
+
+ optimal value: 0.441691 
+
+ optiml agent
+   1.0e+03 *
+
+    1.0000    1.1550    4.3402    3.2500    4.6501    0.0200    0.0135
+
+population
+   1.0e+03 *
+
+    1.0000    2.0000    3.0000    4.0000    5.0000    0.0200    0.0150
+    1.0000    2.0000    3.0000    4.0000    5.0000    0.0177    0.0130
+    1.0000    0.8913    4.8421    3.2500    4.6248    0.0200    0.0135
+    1.0000    1.9750    2.9500    3.2500    4.9000    0.0177    0.0084
+    1.0000    1.2210    4.2813    4.0000    4.7234    0.0200    0.0135
+    1.0000    2.0000    3.0000    4.0000    5.0000    0.0177    0.0090
+    1.0000    1.1891    4.3241    3.2500    4.7022    0.0200    0.0135
+    1.0000    2.0504    2.8821    3.2500    4.9829    0.0177    0.0066
+    1.0000    0.8913    4.8421    2.0000    4.6248    0.0200    0.0135
+    1.0000    2.0560    2.8690    2.1000    4.9810    0.0156    0.0079
+
+IdleTimeout has been reached.
+Parallel pool using the 'local' profile is shutting down.
+>> 

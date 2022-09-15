@@ -134,6 +134,12 @@ function [optimal_agent, optimal_value, function_time] = differential_evolution(
         endLoop = toc(startLoop);
         fprintf('time in generation (%d): %f\n', generation, (endLoop));
 
+        for j=1:population_size
+            
+            agent = population(j,:);
+            
+        end
+
     end
 
     time_fig = figure();

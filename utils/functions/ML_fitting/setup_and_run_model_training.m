@@ -53,7 +53,7 @@ function [Mdl, metric, model] = setup_and_run_model_training(schemefile, SNR, ou
         writematrix(target, strcat(output_folder, num2str(i), '_target_param.txt'));
 
         MAE(i) =  mean(abs(pred-target));
-        fprintf("MAE %d : %f \n ", i, MAE(i));
+        %fprintf("MAE %d : %f \n ", i, MAE(i));
         
     end
     
